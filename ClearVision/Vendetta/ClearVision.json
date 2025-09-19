@@ -3,7 +3,7 @@
     "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
 	"authors": [
       {
-         "name": "Persinalized",
+         "name": "Taki_Shiwa, edited by Sunny",
          "id": "466968658997149706"
       }
     ],
@@ -516,8 +516,8 @@
 	"PLUM_22": "#0f1428"
     },
     "background": {
-        "url": "https://github.com/ETruong2023/ThemesCorrected/blob/main/ClearVision/Vendetta/fantasy-japanese-demon-yokai-art-uhdpaper.com-4K-8.1406~3.jpg",
-	"alpha": 1
+        "url": "https://raw.githubusercontent.com/jamlotrasoiaf/ThemesCorrected/main/ClearVision/Vendetta/eOIFmqY.jpeg",
+	"alpha": 0.25
     },
     "plus": {
         "version": 0,
