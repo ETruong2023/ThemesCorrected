@@ -1,5 +1,5 @@
 {
-    "name": "ClearVision v1.2.6",
+    "name": "ClearVision v1.2.6_P2",
     "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
 	"authors": [
       {
@@ -516,7 +516,7 @@
 	"PLUM_22": "#0f1428"
     },
     "background": {
-        "url": "https://raw.githubusercontent.com/ETruong2023/ThemesCorrected/refs/heads/main/ClearVision/Vendetta/Personal_JPBG_Dark.jpg",
+        "url": "https://raw.githubusercontent.com/ETruong2023/ThemesCorrected/refs/heads/main/ClearVision/Vendetta/Personal%20JP%20BG.jpg",
 	"alpha": 0.25
     },
     "plus": {
